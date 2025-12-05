@@ -15,6 +15,7 @@ NovaForge comes with a powerful AI Agent integrated into the workbench.
 ### 📢 Context-Aware Ad System
 A non-intrusive, ethical ad system that supports the development of free tools.
 -   **Smart Visibility**: Ads appear *only* when the AI Agent is actively working for you, keeping your coding flow distraction-free.
+-   **Real-World Integration**: Supports rich media banners for relevant developer tools and services (e.g., cloud providers, debugging tools).
 -   **Sandboxed Security**: All ads run in a secure, sandboxed iframe to ensure they never interfere with your code or security.
 -   **Integrated UI**: Ads are displayed in the Auxiliary Bar, blending perfectly with the IDE's aesthetics.
 
